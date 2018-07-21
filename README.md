@@ -14,14 +14,15 @@ Summary: Line-oriented, tab-separated value format
 Current build status
 ====================
 
-Linux: [![Circle CI](https://circleci.com/gh/conda-forge/linear-tsv-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/linear-tsv-feedstock)
-OSX: [![TravisCI](https://travis-ci.org/conda-forge/linear-tsv-feedstock.svg?branch=master)](https://travis-ci.org/conda-forge/linear-tsv-feedstock)
-Windows: [![AppVeyor](https://ci.appveyor.com/api/projects/status/github/conda-forge/linear-tsv-feedstock?svg=True)](https://ci.appveyor.com/project/conda-forge/linear-tsv-feedstock/branch/master)
+All platforms:
+[![noarch](https://img.shields.io/circleci/project/github/conda-forge/linear-tsv-feedstock/master.svg?label=noarch)](https://circleci.com/gh/conda-forge/linear-tsv-feedstock)
 
 Current release info
 ====================
-Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/linear-tsv/badges/version.svg)](https://anaconda.org/conda-forge/linear-tsv)
-Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/linear-tsv/badges/downloads.svg)](https://anaconda.org/conda-forge/linear-tsv)
+
+| Name | Downloads | Version | Platforms |
+| --- | --- | --- | --- |
+| [![Conda Recipe](https://img.shields.io/badge/recipe-linear--tsv-green.svg)](https://anaconda.org/conda-forge/linear-tsv) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/linear-tsv.svg)](https://anaconda.org/conda-forge/linear-tsv) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/linear-tsv.svg)](https://anaconda.org/conda-forge/linear-tsv) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/linear-tsv.svg)](https://anaconda.org/conda-forge/linear-tsv) |
 
 Installing linear-tsv
 =====================
